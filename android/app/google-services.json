@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605156482928",
+    "project_id": "playwithme-4a974",
+    "storage_bucket": "playwithme-4a974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605156482928:android:83644b542dd26d8619b9b5",
+        "android_client_info": {
+          "package_name": "com.example.app_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605156482928-opii3p9bqc2nl826b1rp8bnn2gcivja6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-54GCzhluJU2r6i6qBbFuMAVhtItk-ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605156482928-opii3p9bqc2nl826b1rp8bnn2gcivja6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
